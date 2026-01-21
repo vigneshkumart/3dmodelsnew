@@ -4116,7 +4116,44 @@
   "extensionsUsed": [
     "KHR_materials_specular"
   ],
- 
+  "images": [
+    {
+      "uri": "textures/male_casualsuit06_baseColor.png"
+    },
+    {
+      "uri": "textures/male_casualsuit06_normal.png"
+    },
+    {
+      "uri": "textures/shoes02_baseColor.png"
+    },
+    {
+      "uri": "textures/HighPolyEyes_baseColor.png"
+    },
+    {
+      "uri": "textures/body_baseColor.png"
+    },
+    {
+      "uri": "textures/deck_baseColor.png"
+    },
+    {
+      "uri": "textures/deck_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/wheel_baseColor.png"
+    },
+    {
+      "uri": "textures/wheel_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/truck_baseColor.png"
+    },
+    {
+      "uri": "textures/truck_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Bearing_baseColor.png"
+    }
+  ],
   "materials": [
     {
       "doubleSided": true,
